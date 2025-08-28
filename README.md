@@ -10,19 +10,19 @@ Explorer is minimalistic, dark and high-contrast. Everything is legible (at leas
 
 Thanks to all the developers for the themes from which I've pulled the colors:
 
-- Euandeas for (Flexoki-dark)[https://github.com/euandeas/omarchy-flexoki-dark-theme]
-- Sainhe for (Everforest)[https://github.com/sainnhe/everforest]
-- Tahavyr for (Matte Black)[https://github.com/tahayvr/omarchy-matte-black]
+- Euandeas for [Flexoki-dark](https://github.com/euandeas/omarchy-flexoki-dark-theme)
+- Sainhe for [Everforest](https://github.com/sainnhe/everforest)
+- Tahavyr for [Matte Black](https://github.com/tahayvr/omarchy-matte-black)
 
 ## Installation:
 
 ### Method 1
-1. Copy `https://github.com/euandeas/omarchy-flexoki-dark-theme`
+1. Copy `https://github.com/LaExploradora/omarchy-explorer-theme`  
 2. Click `SUPER + ALT + SPACE`
 3. Click `Install > Style > Theme`
 4. Paste the link 
 
 ### Method 2:
 ```bash
-omarchy-theme-install https://github.com/euandeas/omarchy-flexoki-dark-theme.git
+omarchy-theme-install https://github.com/LaExploradora/omarchy-explorer-theme 
 ```
